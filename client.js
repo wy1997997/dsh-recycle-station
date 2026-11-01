@@ -1,5 +1,5 @@
 window.__ModuleLoader__.load({
-  id: '@local/dsh-archived-session-recycle-bin',
+  id: 'dsh-recycle-station',
   factory(require) {
     const React = require('react')
     const h = React.createElement
@@ -356,7 +356,7 @@ window.__ModuleLoader__.load({
       inject: ['slots', 'workspaces'],
       apply(ctx) {
         try {
-          if (ctx.locale && ctx.locale.register) ctx.locale.register('dsh-archived-session-recycle-bin', DICT)
+          if (ctx.locale && ctx.locale.register) ctx.locale.register('dsh-recycle-station', DICT)
         } catch { /* locale service unavailable */ }
         const source = createArchivedSource(ctx)
 

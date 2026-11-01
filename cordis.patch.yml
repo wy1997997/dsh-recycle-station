@@ -1,4 +1,4 @@
 - insert:
-    - id: dsh-archived-session-recycle-bin
-      name: '@local/dsh-archived-session-recycle-bin'
+    - id: dsh-recycle-station
+      name: 'dsh-recycle-station'
       config: {}
