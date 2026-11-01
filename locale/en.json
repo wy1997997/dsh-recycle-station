@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Archived Session Recycle Bin",
+    "description": "Delete archived sessions from the row menu into a recycle bin; restore, purge, or let them expire."
+  }
+}
