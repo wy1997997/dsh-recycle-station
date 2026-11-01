@@ -1,9 +1,9 @@
 {
-  "name": "@local/dsh-archived-session-recycle-bin",
+  "name": "dsh-recycle-station",
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Delete archived sessions into a recycle bin with restore, purge, and expiry.",
+  "description": "会话回收站 —— 删除已归档会话先进回收站，可恢复、彻底删除，到期自动清除。/ Session Recycle Bin — deleted archived sessions go to a recycle bin with restore, purge, and auto-expiry.",
   "exports": {
     ".": "./index.js",
     "./client": "./client.js",

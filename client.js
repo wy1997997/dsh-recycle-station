@@ -12,7 +12,7 @@ window.__ModuleLoader__.load({
 
     const DICT = {
       zh: {
-        'meta.title': '归档会话回收站',
+        'meta.title': '会话回收站',
         'meta.description': '在会话菜单中删除已归档会话：先进回收站，可恢复，到期自动彻底删除。',
         panel: '回收站',
         'menu.deleteSession': '删除会话',
@@ -48,7 +48,7 @@ window.__ModuleLoader__.load({
         'error.failed': '操作失败：{message}',
       },
       en: {
-        'meta.title': 'Archived Session Recycle Bin',
+        'meta.title': 'Session Recycle Bin',
         'meta.description': 'Delete archived sessions from the row menu into a recycle bin with restore and expiry.',
         panel: 'Recycle Bin',
         'menu.deleteSession': 'Delete session',
